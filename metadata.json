@@ -1,5 +1,6 @@
 {
   "name": "Kannada Mitra",
   "description": "Your friendly companion for learning Kannada from Hindi.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
